@@ -39,7 +39,7 @@ dependencies:
     - catboost
     - eli5
     - shap
-    - districtdatalabs
+    # - districtdatalabs # package doesn't exist
     - yellowbrick
     - gensim
     - spacy
