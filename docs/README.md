@@ -1,4 +1,4 @@
-# CPSC 330 Documents
+# Important Links
 
 * [Syllabus](../syllabus.md)
 * [Frequently Asked Questions](faq.md)
