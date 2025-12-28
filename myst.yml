@@ -3,6 +3,10 @@ project:
   title: CPSC 330 Applied Machine Learning 2025W1
   authors:
     - name: Varada Kolhatkar
+    - name: Giulia Toti
+    - name: Mehrdad Oveisi
+    - name: Firas Moosvi
+    - name: any others!
   exclude:
     - hw
     - exams
