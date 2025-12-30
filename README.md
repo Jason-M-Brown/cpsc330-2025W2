@@ -14,12 +14,12 @@ The syllabus is available [here](syllabus.md). Please read it carefully to under
 |-----------|-----------------------------------|--------------------------------|-----------------------------|--------------------------------------------------------|
 | 201       | [Giulia Toti](https://www.gtoti.com/) | [gtoti@cs.ubc.ca](mailto:gtoti@cs.ubc.ca)     | Tue & Thu, 9:30–10:50      | [MCML 360](https://learningspaces.ubc.ca/classrooms/mcml-360/)  |
 | 202      | [Firas Moosvi](https://firas.moosvi.com) | [Ed Discussion](https://edstem.org/us/courses/89791)         | Tue & Thu, 15:30–16:50      | [DMP 310](https://learningspaces.ubc.ca/classrooms/dmp-310/) |
-| 203       |       |                  | Tue & Thu, 17:00–18:20      |   [IRC 4](https://learningspaces.ubc.ca/classrooms/irc-4/)      |
-| 204       |       |                  | Tue & Thu, 11:00–12:20      |  [DMP 310](https://learningspaces.ubc.ca/classrooms/dmp-310/)   |
+| 203       | [Mehrdad Oveisi](https://www.cs.ubc.ca/people/mehrdad-oveisi) | [moveisi@cs.ubc.ca](mailto:moveisi@cs.ubc.ca) | Tue & Thu, 17:00–18:20      |   [IRC 4](https://learningspaces.ubc.ca/classrooms/irc-4/)      |
+| 204       | [Mehrdad Oveisi](https://www.cs.ubc.ca/people/mehrdad-oveisi) | [moveisi@cs.ubc.ca](mailto:moveisi@cs.ubc.ca) | Tue & Thu, 11:00–12:20      |  [DMP 310](https://learningspaces.ubc.ca/classrooms/dmp-310/)   |
 
 
-### Course co-ordinator
-- Anca Barbu (cpsc330-admin@cs.ubc.ca), please reach out to the course co-ordinator for: admin questions, extensions, academic concessions etc. Include a descriptive subject, your name and student number, this will help us keep track of emails.
+### Course coordinator
+- Anca Barbu (cpsc330-admin@cs.ubc.ca), please reach out to the course coordinator for: admin questions, extensions, academic concessions etc. Include a descriptive subject, your name and student number, this will help us keep track of emails.
 
 ### TAs
 
@@ -51,8 +51,8 @@ Software licensed under [the MIT License](https://spdx.org/licenses/MIT.html), n
 
 ## Important links
 
-<!-- * 
-[Calendar](https://htmlpreview.github.io/?https://github.com/UBC-CS/cpsc330/blob/master/docs/calendar.html) 
+<!-- *
+[Calendar](https://htmlpreview.github.io/?https://github.com/UBC-CS/cpsc330/blob/master/docs/calendar.html)
 -->
 * [Course GitHub page](https://github.com/UBC-CS/cpsc330-2025W2)
 * [Course Jupyter book](https://ubc-cs.github.io/cpsc330-2025W2)

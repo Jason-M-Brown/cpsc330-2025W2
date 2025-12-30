@@ -53,7 +53,7 @@ Tutorials for this course will be conducted by TAs, who will guide you through a
 - Mehrdad Oveisi, OH:
 - Firas Moosvi, OH: 
 
-### Course co-ordinator
+### Course coordinator
 - Anca Barbu (cpsc330-admin@cs.ubc.ca), please reach out to Anca for: admin questions, extensions, academic concessions etc. 
 
 ### TAs
