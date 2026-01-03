@@ -103,7 +103,7 @@ The grading scheme for the course is as follows:
 | Final Exam*            | 30%    | [CBTF](https://cbtf.ubc.ca/), on PrairieLearn |
 | Tutorial participation | up to 2% bonus    | in person attendance to 10 tutorials |
 
-All students must satisfy ALL the following conditions to pass the course:
+**All students must satisfy ALL the following conditions to pass the course:**
 - Pass the Assignments component with a grade of at least 40%,
 - Pass the Midterms and Final Exam together with a weighted average grade of at least 50%
 - Pass the Final Exam with a grade of at least 40%,
@@ -189,7 +189,7 @@ For more information, [please see the CBTF page](https://cbtf.ubc.ca/students/ac
 
 ### Final exam
 
-The final exam is scheduled for the exam period and is comprehensive, covering the material taught over the course of the semester. **A score of 40% or more in the final exam is required to pass the course.**
+The final exam is scheduled for the exam period and is comprehensive, covering the material taught over the course of the semester. **A score of 40% or more in the final exam is required to pass the course (along with other requirements listed above).**
 
 ## Academic concessions
 
