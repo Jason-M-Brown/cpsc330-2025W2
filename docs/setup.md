@@ -13,8 +13,8 @@ If you already know what you're doing, here are the essential commands:
 
 ```bash
 # Clone the repo
-git clone https://github.com/UBC-CS/cpsc330-2025W1.git
-cd cpsc330-2025W1
+git clone https://github.com/UBC-CS/cpsc330-2025W2.git
+cd cpsc330-2025W2
 
 # Add conda-forge channel (Miniconda only)
 conda config --add channels conda-forge
@@ -38,13 +38,13 @@ code .
 
 ## Step 1: Install Git
 
-We use Git to manage and download course material from GitHub. Follow the [Git setup instructions](https://ubc-cs.github.io/cpsc330-2025W1/docs/git_installation.html).
+We use Git to manage and download course material from GitHub. Follow the [Git setup instructions](https://ubc-cs.github.io/cpsc330-2025W2/docs/git_installation.html).
 
 Once installed:
 
 ```bash
-git clone https://github.com/UBC-CS/cpsc330-2025W1.git
-cd cpsc330-2025W1
+git clone https://github.com/UBC-CS/cpsc330-2025W2.git
+cd cpsc330-2025W2
 ```
 
 To update later:
@@ -123,7 +123,7 @@ A virtual environment keeps course packages isolated from other projects.
 
 1. Navigate to the course repo if you are not already there. Make sure `cpsc330env.yml` exists in the repo you cloned:
 ```bash
-cd cpsc330-2025W1
+cd cpsc330-2025W2
 ls 
 ```
 
@@ -162,8 +162,8 @@ Some of you may prefer using [VS Code](https://code.visualstudio.com/) instead o
 
 ### Open the repo in VS Code
 
-- Open VS Code → File → Open Folder → select the cloned `cpsc330-2025W1` folder.  
-- Or in the terminal navigate to `cpsc330-2025W1` and open VS Code:  
+- Open VS Code → File → Open Folder → select the cloned `cpsc330-2025W2` folder.  
+- Or in the terminal navigate to `cpsc330-2025W2` and open VS Code:  
 ```bash
 code . 
 ```

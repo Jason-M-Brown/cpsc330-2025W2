@@ -1,4 +1,4 @@
-[![deploy-book](https://github.com/UBC-CS/cpsc330-2025W1/actions/workflows/deploy.yml/badge.svg?branch=main)](https://github.com/UBC-CS/cpsc330-2025W1/actions/workflows/deploy.yml)
+[![deploy-book](https://github.com/UBC-CS/cpsc330-2025W2/actions/workflows/deploy.yml/badge.svg?branch=main)](https://github.com/UBC-CS/cpsc330-2025W2/actions/workflows/deploy.yml)
 
 # UBC CPSC 330: Applied Machine Learning (2025W2)
 
